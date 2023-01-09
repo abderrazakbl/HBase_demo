@@ -13,5 +13,9 @@ public class Person {
     private int age;
     private String personalAddress;
     private String professionalAddress;
+    private String personalEmail;
+    private String professionalEmail;
     private String company;
+    private String personalPhoneNum;
+    private String professionalPhoneNum;
 }
